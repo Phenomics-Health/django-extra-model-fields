@@ -56,3 +56,6 @@ class ExtraFieldModel(models.Model):
     def delete_key(self, key):
         """Method to delete extra field."""
         self.extra_fields.filter(key=key).delete()
+
+    class Meta:
+        abstract = True
