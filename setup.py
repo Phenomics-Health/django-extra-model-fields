@@ -11,9 +11,9 @@ setup(
     description='A Django app for adding and managing extra fields on any model.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/omerbhatti/django-extra-fields',
-    author='Omer Bhatti',
-    author_email='omerbhatti340@gmail.com',
+    url='https://github.com/Phenomics-Health/django-extra-fields',
+    author='AA',
+    author_email='aa@phenomicshealth.com',
     license='MIT',
     classifiers=[
         'Environment :: Web Environment',
